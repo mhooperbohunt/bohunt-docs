@@ -34,9 +34,6 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()} <a href="https://bohuntwokingham.co.uk">Bohunt Wokingham</a>, Application Created by <a href="https://machooper.com">Mac Hooper</a>`,
     },
     themeConfig: {
-      colorMode: {
-        defaultMode: 'dark',
-      },
       announcementBar: {
         id: 'announcement', 
         content:
@@ -44,7 +41,7 @@ module.exports = {
         backgroundColor: '#fafbfc', 
         textColor: '#091E42', 
       },
-    }
+    },
   },
   presets: [
     [
