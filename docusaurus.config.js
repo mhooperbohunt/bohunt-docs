@@ -1,7 +1,7 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'Bohunt Wokingham IT Docs',
+  tagline: 'A simple documentation for IT Support at Bohunt Wokingham',
+  url: 'https://bohunt-docs.vercel.app/',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'facebook', // Usually your GitHub org/user name.
