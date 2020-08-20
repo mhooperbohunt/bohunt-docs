@@ -1,5 +1,5 @@
 module.exports = {
-  someSidebar: {
+  docs: {
     AV: ['assembly', 'soundboard', 'lighting'],
     Adobe: ['adadmin', 'newpkg', 'deploypkg'],
     Classcharts: ['ccharts', 'cchstudentcodes', 'cchteachcodes', 'cchteachperms'],
