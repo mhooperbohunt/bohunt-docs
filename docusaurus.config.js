@@ -37,13 +37,13 @@ module.exports = {
       colorMode: {
         defaultMode: 'dark',
       },
-      // announcementBar: {
-      //   id: 'announcement', 
-      //   content:
-      //     'We are looking to revamp our docs, please fill <a target="_blank" rel="noopener noreferrer" href="#">this survey</a>',
-      //   backgroundColor: '#fafbfc', 
-      //   textColor: '#091E42', 
-      // },
+      announcementBar: {
+        id: 'announcement', 
+        content:
+          'For information about these docs, see our 1st blog post by <a target="_blank" rel="noopener noreferrer" href="/blog/2020/08/20/version-1">Clicking Here</a>',
+        backgroundColor: '#fafbfc', 
+        textColor: '#091E42', 
+      },
     }
   },
   presets: [
