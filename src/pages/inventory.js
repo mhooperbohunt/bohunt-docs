@@ -13,7 +13,7 @@ function Inventory() {
           fontSize: '20px',
         }}>
         <p>
-          Edit <code>pages/hello.js</code> and save to reload.
+          Edit <code>pages/inventory.js</code> and save to reload.
         </p>
       </div>
     </Layout>
