@@ -14,7 +14,7 @@ module.exports = {
     SIMS: ["simsoverview", "simsperms", "simsttables", "simstutor"],
     Salamander: ["salsoft", "salsyncs", "sallogs", "salreps", "saltix"],
     Smoothwall: ["whitelist", "blacklist", "swreport", "smediagrp", "sgreports"],
-    Staff ID's: ["idprinting"],
+    Staff IDs: ["idprinting"],
     Website: ["wordpressoview", "wpupload", "wpgupdate"],
     Wi-Fi: ["ahive", "apcstatus", "ahcommon", "wiusers", "ahreports", "ahcert"],
     Windows Server: ["ad", "gp", "switches", "servers"],
