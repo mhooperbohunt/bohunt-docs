@@ -3,14 +3,14 @@ module.exports = {
   tagline: 'A simple documentation for IT Support at Bohunt Wokingham',
   url: 'https://bohunt-docs.vercel.app/',
   baseUrl: '/',
-  favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  favicon: 'img/logo.svg',
+  organizationName: 'mhooperbohunt', // Usually your GitHub org/user name.
+  projectName: 'bohunt-docs', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Bohunt Wokingham IT Docs',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Bohunt IT Docs',
         src: 'img/logo.svg',
       },
       links: [
