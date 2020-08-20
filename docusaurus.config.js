@@ -33,14 +33,15 @@ module.exports = {
      
       copyright: `Copyright © ${new Date().getFullYear()} <a href="https://bohuntwokingham.co.uk">Bohunt Wokingham</a>, Application Created by <a href="https://machooper.com">Mac Hooper</a>`,
     },
-    themeConfig: {
-      announcementBar: {
-        id: 'announcement', 
-        content:
-          'For information about these docs, see our 1st blog post by <a target="_blank" rel="noopener noreferrer" href="/blog/2020/08/20/version-1">Clicking Here</a>',
-        backgroundColor: '#fafbfc', 
-        textColor: '#091E42', 
-      },
+    colorMode: {
+      defaultMode: 'dark',
+    },
+    announcementBar: {
+      id: 'announcement', 
+      content:
+        'For information about these docs, see our 1st blog post by <a target="_blank" rel="noopener noreferrer" href="/blog/2020/08/20/version-1">Clicking Here</a>',
+      backgroundColor: '#fafbfc', 
+      textColor: '#091E42', 
     },
   },
   presets: [
