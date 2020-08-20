@@ -17,6 +17,6 @@ module.exports = {
     StaffIDs: ["idprinting"],
     Website: ["wordpressoview", "wpupload", "wpgupdate"],
     WiFi: ["ahive", "apcstatus", "ahcommon", "wiusers", "ahreports", "ahcert"],
-    Windows Server: ["ad", "gp", "switches", "servers"],
+    WindowsServer: ["ad", "gp", "switches", "servers"],
   },
 };
