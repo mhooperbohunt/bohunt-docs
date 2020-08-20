@@ -4,8 +4,8 @@ module.exports = {
   url: 'https://bohunt-docs.vercel.app/',
   baseUrl: '/',
   favicon: 'img/logo.svg',
-  organizationName: 'mhooperbohunt', // Usually your GitHub org/user name.
-  projectName: 'bohunt-docs', // Usually your repo name.
+  organizationName: 'mhooperbohunt',
+  projectName: 'bohunt-docs',
   themeConfig: {
     navbar: {
       title: 'Bohunt Wokingham IT Docs',
@@ -40,13 +40,11 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
           editUrl:
             'https://github.com/mhooperbohunt/bohunt-docs/master/',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
           editUrl:
             'https://github.com/mhooperbohunt/bohunt-docs/master/blog/',
         },

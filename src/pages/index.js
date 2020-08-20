@@ -27,7 +27,7 @@ const features = [
   },
   {
     title: <>Powered by React and Docusaurus</>,
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    imageUrl: 'img/undraw_react.svg',
     description: (
       <>
         Built using the React with Docusaurus, Coded in JavaScript and docs/posts are written in Markdown.
