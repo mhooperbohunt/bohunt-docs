@@ -1,5 +1,22 @@
 module.exports = {
   someSidebar: {
-    Docusaurus: ['doc1', 'doc2', 'doc3'],
+    AV: ["assembly", "soundboard", "lighting"],
+    Adobe: ["adadmin", "newpkg", "deploypkg"],
+    Classcharts: ["ccharts", "cchstudentcodes", "cchteachcodes", "cchteachperms"],
+    Computers: ["imaging", "naming", "laptopsup", "pxeboot"],
+    Emails: ["parents", "format", "inbox", "medhurst"],
+    Google: ["gsync", "ggroups", "gadmin", "gexporting", "greports", "calsync"],
+    iPads: ["dfu", "jamf", "prestage", "jamfgroups", "ipcommon", "claims"],
+    Network: ["servoview"],
+    Phones: ["ports", "phoneconf", "phonebugs", "phoneserver", "phonemanager", "holidays"],
+    Powershell: ["scripts"],
+    Printers: ["printportal", "prinsync", "printaccounts", "toners", "jamming"],
+    SIMS: ["simsoverview", "simsperms", "simsttables", "simstutor"],
+    Salamander: ["salsoft", "salsyncs", "sallogs", "salreps", "saltix"],
+    Smoothwall: ["whitelist", "blacklist", "swreport", "smediagrp", "sgreports"],
+    Staff ID's: ["idprinting"],
+    Website: ["wordpressoview", "wpupload", "wpgupdate"],
+    Wi-Fi: ["ahive", "apcstatus", "ahcommon", "wiusers", "ahreports", "ahcert"],
+    Windows Server: ["ad", "gp", "switches", "servers"],
   },
 };
