@@ -38,7 +38,7 @@ module.exports = {
         defaultMode: 'dark',
       },
       // announcementBar: {
-      //   id: 'support_us', // Any value that will identify this message.
+      //   id: 'announcement', 
       //   content:
       //     'We are looking to revamp our docs, please fill <a target="_blank" rel="noopener noreferrer" href="#">this survey</a>',
       //   backgroundColor: '#fafbfc', 
