@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-    Welcome: ['doc1', 'doc2', 'doc3'],
+    Welcome: ['welcome'],
     'Windows Server': ['ad', 'gp', 'switches', 'servers'],
     Google: ["gsync", "ggroups", "gadmin", "gexporting", "greports", "calsync"],
     Printers: ["printportal", "prinsync", "printaccounts", "toners", "jamming"],
