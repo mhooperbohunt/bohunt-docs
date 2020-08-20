@@ -1,7 +1,6 @@
 module.exports = {
   someSidebar: {
-    Docusaurus: ['doc1', 'doc2', 'doc3'],
-    Features: ['mdx'],
+    Welcome: ['doc1', 'doc2', 'doc3'],
     'Windows Server': ['ad', 'gp', 'switches', 'servers'],
     Google: ["gsync", "ggroups", "gadmin", "gexporting", "greports", "calsync"],
     Printers: ["printportal", "prinsync", "printaccounts", "toners", "jamming"],
