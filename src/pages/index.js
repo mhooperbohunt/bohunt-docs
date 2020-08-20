@@ -30,7 +30,7 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Built using the Facebook created Front End Framework specifically the Docusaurus Open Source Documentation Generator, Coded in JavaScript and docs/posts are written in Markdown.
+        Built using the React with Docusaurus, Coded in JavaScript and docs/posts are written in Markdown.
       </>
     ),
   },
