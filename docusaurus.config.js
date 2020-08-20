@@ -33,6 +33,18 @@ module.exports = {
      
       copyright: `Copyright © ${new Date().getFullYear()} <a href="https://bohuntwokingham.co.uk">Bohunt Wokingham</a>, Application Created by <a href="https://machooper.com">Mac Hooper</a>`,
     },
+    themeConfig: {
+      colorMode: {
+        defaultMode: 'dark',
+      },
+      // announcementBar: {
+      //   id: 'support_us', // Any value that will identify this message.
+      //   content:
+      //     'We are looking to revamp our docs, please fill <a target="_blank" rel="noopener noreferrer" href="#">this survey</a>',
+      //   backgroundColor: '#fafbfc', 
+      //   textColor: '#091E42', 
+      // },
+    }
   },
   presets: [
     [
