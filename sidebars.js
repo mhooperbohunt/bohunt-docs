@@ -8,7 +8,7 @@ module.exports = {
     SIMS: ["simsoverview", "simsperms", "simsttables", "simstutor"],
     Salamander: ["salsoft", "salsyncs", "sallogs", "salreps", "saltix"],
     Website: ["wordpressoview", "wpupload", "wpgupdate"],
-    Classcharts: ["ccharts", "cchstudentcodes", "cchteachcodes", "cchteachperms"],
+    Classcharts: ["ccharts", "cchcodes", "cchteachperms"],
     'Wi-Fi': ["ahive", "apcstatus", "ahcommon", "wiusers", "ahreports", "ahcert"],
     Phones: ["ports", "phoneconf", "phonebugs", "phoneserver", "phonemanager", "holidays"],
     Smoothwall: ["whitelist", "blacklist", "swreport", "smediagrp", "sgreports"],
