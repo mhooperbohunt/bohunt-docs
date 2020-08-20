@@ -8,32 +8,29 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Easy to Use</>,
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    title: <>Detailed Documentation</>,
+    imageUrl: 'img/undraw_docs.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        A collection of any documentation that you could possibly need for IT at Bohunt Wokingham
       </>
     ),
   },
   {
-    title: <>Focus on What Matters</>,
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    title: <>Fast Loading</>,
+    imageUrl: 'img/undraw_loading.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Ensuring you can access the information you need as quickly as possible.
       </>
     ),
   },
   {
-    title: <>Powered by React</>,
+    title: <>Powered by React and Docusaurus</>,
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Built using the Facebook created Front End Framework specifically the Docusaurus Open Source Documentation Generator, Coded in JavaScript and docs/posts are written in Markdown.
       </>
     ),
   },
