@@ -1,6 +1,6 @@
 ---
-id: lightning
-title: Assembly Lightning
-sidebar_label: Lightning
+id: lighting
+title: Assembly Lighting
+sidebar_label: Lighting
 ---
 
