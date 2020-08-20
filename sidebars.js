@@ -9,7 +9,7 @@ module.exports = {
     Salamander: ["salsoft", "salsyncs", "sallogs", "salreps", "saltix"],
     Website: ["wordpressoview", "wpupload", "wpgupdate"],
     Classcharts: ["ccharts", "cchcodes", "cchteachperms"],
-    'Wi-Fi': ["ahive", "apcstatus", "ahcommon", "wiusers", "ahreports", "ahcert"],
+    'Wi-Fi': ["ahive", "apstatus", "ahcommon", "wiusers", "ahreports", "ahcert"],
     Phones: ["ports", "phoneconf", "phonebugs", "phoneserver", "phonemanager", "holidays"],
     Smoothwall: ["whitelist", "blacklist", "swreport", "smediagrp", "sgreports"],
     Network: ["servoview"],
