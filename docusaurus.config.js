@@ -31,7 +31,7 @@ module.exports = {
     footer: {
       style: 'dark',
      
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} <a href="https://bohuntwokingham.co.uk">Bohunt Wokingham</a>, Application Created by <a href="https://machooper.com">Mac Hooper</a>`,
     },
   },
   presets: [
