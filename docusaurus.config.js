@@ -50,12 +50,12 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/mhooperbohunt/bohunt-docs',
+            'https://github.com/mhooperbohunt/bohunt-docs/blob/master',
         },
         blog: {
           showReadingTime: true,
           editUrl:
-            'https://github.com/mhooperbohunt/bohunt-docs',
+            'https://github.com/mhooperbohunt/bohunt-docs/blob/master',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
