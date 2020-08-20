@@ -20,6 +20,7 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
+        {to: 'inventory', label: 'Inventory', position: 'left'},
         {to: 'blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/mhooperbohunt/bohunt-docs',

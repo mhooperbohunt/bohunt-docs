@@ -30,7 +30,7 @@ const features = [
     imageUrl: 'img/undraw_react.svg',
     description: (
       <>
-        Built using the React with Docusaurus, Coded in JavaScript and docs/posts are written in Markdown.
+        Built using React with Docusaurus, Coded in JavaScript and docs/posts are written in Markdown.
       </>
     ),
   },
